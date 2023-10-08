@@ -1,0 +1,49 @@
+{  
+    "ques" : [  
+        "Q1. Choose the option below which is not a member of class",  
+        "Q2. We can apply RTTI to which of the class types??",  
+        "Q3. Which operator can not be overloaded",  
+        "Q4. What is the size of empty class in C++?",  
+        "Q5. How many object can be created of a Class in C++?", 
+        "Q6. How many Access specifier are there in C++?", 
+        "Q7. Which operator is support by Python",
+        "Q8. Which is not a valid predefine class",
+        "Q9. which is not  a valid control statement", 
+        "Q10. By using whcih key word we define a function in python"
+
+    ],  
+    "ans" : [  
+        1,  1,  4,  2,   3,  3 , 1 , 1,   2 , 3 
+    ],  
+    "choices" : [  
+        [  
+        "Friend function",  "Static function",  "Virtual function",  "None"  
+        ],  
+        [  
+        "Polymorphic",  "Encapsulation",  "Stati",  "Derived"  
+        ],  
+        [  
+        "+",  "-",  "*",  "::"  
+        ],  
+        [  
+        "0",  "1",  "2",  "4"  
+        ],  
+        [  
+        "1",  "5",  "There Is No Limits",  "256"  
+        ],
+        [
+            "1", "2", "3", "4"
+        ],
+        [
+            "in", "all", "any", "None"
+        ],
+        [
+            "Bit", "Bytes", "Byte Array", "Set"
+        ],
+        [
+            "pass", "return", "break", "continue"
+        ],
+        [ "Fun","DEF", "def", "None" 
+        ]  
+    ]  
+}
